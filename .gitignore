@@ -19,7 +19,7 @@ project/plugins/project/
 .history
 .cache
 .lib/
-
+.vscode/
 ### Scala ###
 *.class
 *.log
